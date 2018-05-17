@@ -1,0 +1,6 @@
+add_example(additivePacket)
+add_example(bakedTremolo)
+add_example(celeste)
+add_example(drift)
+add_example(equalLoudness)
+add_example(portamento)

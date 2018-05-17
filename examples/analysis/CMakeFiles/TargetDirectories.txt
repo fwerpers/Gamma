@@ -1,0 +1,3 @@
+/Users/FWerpers/Documents/Projects/Gamma/examples/analysis/CMakeFiles/rebuild_cache.dir
+/Users/FWerpers/Documents/Projects/Gamma/examples/analysis/CMakeFiles/edit_cache.dir
+/Users/FWerpers/Documents/Projects/Gamma/examples/analysis/CMakeFiles/flanger.dir

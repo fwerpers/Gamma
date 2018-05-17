@@ -1,0 +1,6 @@
+add_example(Bowditch)
+add_example(botanic)
+add_example(circle)
+add_example(epicycloid)
+add_example(hypocycloid)
+add_example(spiral)

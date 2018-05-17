@@ -1,0 +1,8 @@
+add_example(AD)
+add_example(ADSR)
+add_example(decay)
+add_example(env)
+add_example(plotEnv)
+add_example(seg)
+add_example(segExp)
+add_example(segNoise)

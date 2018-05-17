@@ -1,0 +1,5 @@
+add_example(binauralBeat)
+add_example(dist)
+add_example(pan)
+add_example(reverb)
+add_example(room)

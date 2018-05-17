@@ -1,0 +1,7 @@
+add_example(HilbertFilter)
+add_example(biquad)
+add_example(blockDC)
+add_example(comb)
+add_example(delay)
+add_example(freqResponses)
+add_example(onePole)
