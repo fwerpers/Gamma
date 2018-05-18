@@ -1,3 +1,7 @@
+# Fork notes #
+* CMake
+* Compilation tested on OSX 10.10.3
+
 # Gamma #
 ### Generic Synthesis C++ Library
 
